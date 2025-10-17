@@ -1,2 +1,2 @@
 # site_de_turismo
-Site de turismo com interface dinâmica e intuitiva. 
+Site de turismo completo com interface dinâmica e intuitiva. 
